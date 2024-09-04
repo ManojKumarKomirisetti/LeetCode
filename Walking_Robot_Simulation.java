@@ -58,7 +58,8 @@ Constraints:
 commands[i] is either -2, -1, or an integer in the range [1, 9].
 0 <= obstacles.length <= 104
 -3 * 104 <= xi, yi <= 3 * 104
-The answer is guaranteed to be less than 231.*/
+The answer is guaranteed to be less than 231.
+*/
 
 import java.util.HashSet;
 import java.util.Set;
